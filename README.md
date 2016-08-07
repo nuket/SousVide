@@ -17,6 +17,13 @@ printed on a printer with a bed with at least 250mm along the longest axis:
 
 ![Larger Spacer](split-diagram-8L-1.png)
 
-According to [this 3D printing tips page](https://innovationstation.utexas.edu/tip-design), 
-drooping of print material only really starts being an issue when the 
+On the bottom of the large spacer, you can see that there are two vertical
+supports that extend about 3mm downwards from the bottom surface along 
+the inside and outside of the pot wall.
+
+![Larger Spacer](split-diagram-8L-2.png)
+
+I was concerned about whether the bottom surface would remain level during printing,
+but according to [this 3D printing tips page](https://innovationstation.utexas.edu/tip-design), 
+the drooping of print material only really starts being an issue when the 
 vertical elements are more than 36mm apart.
